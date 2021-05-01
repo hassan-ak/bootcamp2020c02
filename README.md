@@ -1,5 +1,5 @@
-# bootcamp2020c02
-Starting React
+# bootcamp2020c02 - Starting React
+## Github Actions And Intro to Learning React Part 1
 * Create a Basic React App using CRA
 * Deploy on Surge using Github Actions
 
