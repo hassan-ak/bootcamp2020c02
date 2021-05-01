@@ -6,6 +6,9 @@ Starting React
 External Links
 * [Assignment](https://github.com/panacloud/Base-React-App)
 * [Notes](https://docs.google.com/document/d/13GYhCj3Ts8fWQfj35s6Xz9YZ3WhtK0iqugdnFkrtxwQ/edit)
+  * Create a raect app "npx create-react-app bootcamp2020c02"
+  * View Project in browser "npm start"
+  * Create GitHub Actions "main.yml"
 * Video Lecture 
   * [Link1](https://www.youtube.com/watch?v=G25BM3nPk3s&ab_channel=PanacloudServerlessSaaSTraining)
   * [Link2](https://www.facebook.com/piaic.main/videos/171414181071868/?fref=mentions)
